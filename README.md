@@ -1,2 +1,3 @@
-# web3wallet-improvment-proposals
-web3wallet improvment proposals repo
+# web3wallet improvment proposals
+
+Repo cointains improvemnt proposals / feature requests
