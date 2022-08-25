@@ -9,10 +9,14 @@
             // "<meta name=\"twitter:title\" content=\"WIP-${ID}\">\n" +
             // "<meta name=\"twitter:description\" content=\"web3wallet improvement proposal ${ID}\">\n" +
             // "<meta name=\"twitter:image\" content=\"https://sonsofcrypto.com/web3wallet-improvement-proposals/images/${ID}.png\">\n" +
-            // "<meta property=\"og:type\" content=\"website\">\n" +
+            "<meta property=\"og:type\" content=\"website\">\n" +
             "<meta property='twitter:title' content=\"web3wallet improvement proposal ${ID}\"/>\n" +
             "<meta property='twitter:image' content=\"https://sonsofcrypto.com/web3wallet-improvement-proposals/images/${ID}.png\"/>\n" +
-            "<meta name=\"twitter:card\" content=\"summary_large_image\">\n"
+            "<meta property=\"twitter:card\" content=\"summary_large_image\">\n" +
+            "<meta property=\"twitter:site\" content=\"@sonsofcryptolab\">\n" +
+            "<meta property=\"twitter:creator\" content=\"@sonsofcryptolab\">\n" +
+            "<meta property=\"twitter:description\" content=\"web3wallet improvement proposal ${ID}\">\n" +
+            ""
         document.write("<title>web3wallet improvement proposal " + id + " </title>");
         document.write(tags.replaceAll("${ID}", id));
     </script>
@@ -27,6 +31,7 @@
 <h2>Site is under construction</h2>
 <script>
     document.write("<img src=\"images/" + id + ".png\"/>")
+    document.write("web3wallet improvement proposal" + id)
 </script>
 </body>
 </html>
