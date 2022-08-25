@@ -1,18 +1,17 @@
 <html>
 <head>
-    <meta property="og:type" content="website"/>
     <script>
         const urlParams = new URLSearchParams(window.location.search);
         const id = urlParams.get('id');
-        const tags = "<meta name=\"twitter:card\" content=\"summary_large_image\"/>" +
-        "<meta name=\"twitter:site\" content=\"@sonsofcryptolab\"/>" +
-        "<meta name=\"twitter:title\" content=\"WIP-" + id + "\"/>" +
-        "<meta name=\"twitter:description\" content=\"web3wallet improvement proposal " + id + "\"/>" +
-        "<meta name=\"twitter:image\" content=\"https://sonsofcrypto.com/web3wallet-improvement-proposals/images/" + id + ".png\"/>" +
-        "<meta name=\"og:title\" content=\"WIP-" + id + "\"/>" +
-        "<meta name=\"og:description\" content=\"web3wallet improvement proposal " + id + "\"/>" +
+        const tags = "<meta name=\"twitter:card\" content=\"summary_large_image\">\n" +
+            "<meta name=\"twitter:site\" content=\"@sonsofcryptolab\">\n" +
+            "<meta name=\"twitter:creator\" content=\"@sonsofcryptolab\">\n" +
+            "<meta name=\"twitter:title\" content=\"WIP-${ID}\">\n" +
+            "<meta name=\"twitter:description\" content=\"web3wallet improvement proposal \">\n" +
+            "<meta name=\"twitter:image\" content=\"https://sonsofcrypto.com/web3wallet-improvement-proposals/images/${ID}.png\">"
+        
         document.write("<title>web3wallet improvement proposal " + id + " </title>");
-        document.write(tags);
+        document.write(tags.replaceAll("${ID}", id));
     </script>
 </head>
 <body>
