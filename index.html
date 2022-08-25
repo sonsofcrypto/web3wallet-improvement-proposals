@@ -3,13 +3,14 @@
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="sons of crypto"/>
+    <meta property="twitter:card" content="summary_large_image">
     <script>
         const urlParams = new URLSearchParams(window.location.search);
         const id = urlParams.get('id');
         const tags = "<meta name=\"description\" content=\"web3wallet improvement proposal ${ID}\"/>\n" +
             "<meta property=\"og:url\" content=\"https://sonsofcrypto.com/web3wallet-improvement-proposals/?id=${ID}\"/>\n" +
-            "<meta property=\"og:type\" content=\"website\"/>\n" +
-            "<meta property=\"og:site_name\" content=\"sons of crypto\"/>\n" +
             "<meta property=\"og:title\" content=\"WIP-${ID}\"/>\n" +
             "<meta property=\"og:description\" content=\"web3wallet improvement proposal ${ID}\"/>\n" +
             "<meta property=\"og:image\" content=\"https://sonsofcrypto.com/web3wallet-improvement-proposals/images/${ID}.png\"/>\n" +
@@ -17,10 +18,9 @@
             "<meta property=\"twitter:creator\" content=\"@sonsofcryptolab\">\n" +
             "<meta property=\"twitter:title\" content=\"WIP-${ID}\">\n" +
             "<meta property=\"twitter:description\" content=\"web3wallet improvement proposal ${ID}\">\n" +
-            "<meta property=\"twitter:image\" content=\"https://sonsofcrypto.com/web3wallet-improvement-proposals/images/${ID}.png\">\n" +
-            "<meta property=\"twitter:card\" content=\"summary_large_image\">"
-        document.write("<title>web3wallet improvement proposal " + id + " </title>");
-        document.write(tags.replaceAll("${ID}", id));
+            "<meta property=\"twitter:image\" content=\"https://sonsofcrypto.com/web3wallet-improvement-proposals/images/${ID}.png\">\n"
+        document.write("<title>web3wallet improvement proposal " + id + " </title>")
+        document.write(tags.replaceAll("${ID}", id))
     </script>
 </head>
 <body>
