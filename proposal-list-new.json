@@ -1,362 +1,362 @@
 [
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2022.png",
     "id": "2022",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2022.png",
     "title": "Harmony",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2016.png",
     "id": "2016",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2016.png",
     "title": "Launchpad",
-    "body": "Yet to be determined",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Yet to be determined"
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2006.png",
     "id": "2006",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2006.png",
     "title": "Uniswap yield farming",
-    "body": "Uniswap v3 is a noncustodial automated market maker implemented for the Ethereum Virtual Machine. In comparison to earlier versions of the protocol, Uniswap v3 provides increased capital efficiency and fine-tuned control to liquidity providers, improves the accuracy and convenience of the price oracle, and has a more flexible fee structure.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Uniswap v3 is a noncustodial automated market maker implemented for the Ethereum Virtual Machine. In comparison to earlier versions of the protocol, Uniswap v3 provides increased capital efficiency and fine-tuned control to liquidity providers, improves the accuracy and convenience of the price oracle, and has a more flexible fee structure."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2012.png",
     "id": "2012",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2012.png",
     "title": "GMX Derivatives",
-    "body": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2026.png",
     "id": "2026",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2026.png",
     "title": "Solana",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2002.png",
     "id": "2002",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2002.png",
     "title": "1Inch integration",
-    "body": "1inch is a DEX aggregator that picks and chooses the cheapest crypto prices across decentralized exchanges.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "1inch is a DEX aggregator that picks and chooses the cheapest crypto prices across decentralized exchanges."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2013.png",
     "id": "2013",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2013.png",
     "title": "DYDX Derivatives",
-    "body": "dYdX is a leading decentralized exchange that currently supports perpetual trading. dYdX runs on smart contracts on the Ethereum blockchain, and allows users to trade with no intermediaries.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "dYdX is a leading decentralized exchange that currently supports perpetual trading. dYdX runs on smart contracts on the Ethereum blockchain, and allows users to trade with no intermediaries."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2027.png",
     "id": "2027",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2027.png",
     "title": "Moonbeam",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2002.png",
     "id": "2003",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2002.png",
     "title": "ENS integration",
-    "body": "The Ethereum Name Service (ENS) is a distributed, open, and extensible naming system based on the Ethereum blockchain. ENS\u2019s job is to map human-readable names like \u2018alice.eth\u2019 to machine-readable identifiers such as Ethereum addresses, other cryptocurrency addresses, content hashes, and metadata. ENS also supports \u2018reverse resolution\u2019, making it possible to associate metadata such as canonical names or interface descriptions with Ethereum addresses. ENS has similar goals to DNS, the Internet\u2019s Domain Name Service, but has significantly different architecture due to the capabilities and constraints provided by the Ethereum blockchain. Like DNS, ENS operates on a system of dot-separated hierarchical names called domains, with the owner of a domain having full control over subdomains. Top-level domains, like \u2018.eth\u2019 and \u2018.test\u2019, are owned by smart contracts called registrars, which specify rules governing the allocation of their subdomains. Anyone may, by following the rules imposed by these registrar contracts, obtain ownership of a domain for their own use. ENS also supports importing in DNS names already owned by the user for use on ENS. Because of the hierarchal nature of ENS, anyone who owns a domain at any level may configure subdomains - for themselves or others - as desired. For instance, if Alice owns 'alice.eth', she can create 'pay.alice.eth' and configure it as she wishes. ENS is deployed on the Ethereum main network and on several test networks. If you use a library such as the Javascript library, or an end-user application, it will automatically detect the network you are interacting with and use the ENS deployment on that network. ",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "The Ethereum Name Service (ENS) is a distributed, open, and extensible naming system based on the Ethereum blockchain. ENS\u2019s job is to map human-readable names like \u2018alice.eth\u2019 to machine-readable identifiers such as Ethereum addresses, other cryptocurrency addresses, content hashes, and metadata. ENS also supports \u2018reverse resolution\u2019, making it possible to associate metadata such as canonical names or interface descriptions with Ethereum addresses. ENS has similar goals to DNS, the Internet\u2019s Domain Name Service, but has significantly different architecture due to the capabilities and constraints provided by the Ethereum blockchain. Like DNS, ENS operates on a system of dot-separated hierarchical names called domains, with the owner of a domain having full control over subdomains. Top-level domains, like \u2018.eth\u2019 and \u2018.test\u2019, are owned by smart contracts called registrars, which specify rules governing the allocation of their subdomains. Anyone may, by following the rules imposed by these registrar contracts, obtain ownership of a domain for their own use. ENS also supports importing in DNS names already owned by the user for use on ENS. Because of the hierarchal nature of ENS, anyone who owns a domain at any level may configure subdomains - for themselves or others - as desired. For instance, if Alice owns 'alice.eth', she can create 'pay.alice.eth' and configure it as she wishes. ENS is deployed on the Ethereum main network and on several test networks. If you use a library such as the Javascript library, or an end-user application, it will automatically detect the network you are interacting with and use the ENS deployment on that network. "
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2023.png",
     "id": "2023",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2023.png",
     "title": "Harmony",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2017.png",
     "id": "2017",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2017.png",
     "title": "Polygon",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2007.png",
     "id": "2007",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2007.png",
     "title": "Curve yield farming",
-    "body": "Curve is DeFi's leading AMM, (Automated Market Maker).  Hundreds of liquidity pools have been launched through Curve's factory and incentivized by Curve's DAO.  Users rely on Curve's proprietary formulas to provide high liquidity, low slippage, low fee transactions among ERC-20 tokens.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Curve is DeFi's leading AMM, (Automated Market Maker).  Hundreds of liquidity pools have been launched through Curve's factory and incentivized by Curve's DAO.  Users rely on Curve's proprietary formulas to provide high liquidity, low slippage, low fee transactions among ERC-20 tokens."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2028.png",
     "id": "2028",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2028.png",
     "title": "boba",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "infrastructure",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/1006.png",
     "id": "1006",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/1006.png",
     "title": "Generic DAO functionality support",
-    "body": "Add support for most widely user \"DAO\" contracts",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Add support for most widely user \"DAO\" contracts"
   },
   {
     "category": "feature",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/3002.png",
     "id": "3002",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/3002.png",
     "title": "NFT multi send",
-    "body": "Add ability to send multiple NFTs in one transaction.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Add ability to send multiple NFTs in one transaction."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2018.png",
     "id": "2018",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2018.png",
     "title": "Arbitrum",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "infrastructure",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/1002.png",
     "id": "1002",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/1002.png",
     "title": "Wallet connect support",
-    "body": "WalletConnect is an open protocol to communicate securely between Wallets and Dapps (Web3 Apps). The protocol establishes a remote connection between two apps and/or devices using a Bridge server to relay payloads. These payloads are symmetrically encrypted through a shared key between the two peers. The connection is initiated by one peer displaying a QR Code or deep link with a standard WalletConnect URI and is established when the counter-party approves this connection request. It also includes an optional Push server to allow Native applications to notify the user of incoming payloads for established connections.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "WalletConnect is an open protocol to communicate securely between Wallets and Dapps (Web3 Apps). The protocol establishes a remote connection between two apps and/or devices using a Bridge server to relay payloads. These payloads are symmetrically encrypted through a shared key between the two peers. The connection is initiated by one peer displaying a QR Code or deep link with a standard WalletConnect URI and is established when the counter-party approves this connection request. It also includes an optional Push server to allow Native applications to notify the user of incoming payloads for established connections."
   },
   {
     "category": "feature",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/3006.png",
     "id": "3006",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/3006.png",
     "title": "Jpegs factory",
-    "body": "Create easy, user-friendly way to create and deploy NFT collections from the app.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Create easy, user-friendly way to create and deploy NFT collections from the app."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2008.png",
     "id": "2008",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2008.png",
     "title": "Aave lending and borrowing",
-    "body": "Aave is a decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Aave is a decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2018.png",
     "id": "2019",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2018.png",
     "title": "Optimism",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "infrastructure",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/1003.png",
     "id": "1003",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/1003.png",
     "title": "In app browser",
-    "body": "Add support for in app browser allowing to connect to any dapp. ",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Add support for in app browser allowing to connect to any dapp. "
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2009.png",
     "id": "2009",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2009.png",
     "title": "Compound lending and borrowing",
-    "body": "Compound is a protocol on the Ethereum blockchain that establishes money markets, which are",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Compound is a protocol on the Ethereum blockchain that establishes money markets, which are"
   },
   {
     "category": "feature",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/3003.png",
     "id": "3003",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/3003.png",
     "title": "Currency screen improvements",
-    "body": "- Better pending transactions handling",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "- Better pending transactions handling"
   },
   {
     "category": "feature",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/3004.png",
     "id": "3004",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/3004.png",
     "title": "Dashboard improvements",
-    "body": "- Add value of holding in USD for each currency",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "- Add value of holding in USD for each currency"
   },
   {
     "category": "infrastructure",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/1004.png",
     "id": "1004",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/1004.png",
     "title": "Mobile browser extension",
-    "body": "Connect to dapps via app extensions. There are limits to what can be done mobile. Perhaps only available option here will be more convenient wallet connect.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Connect to dapps via app extensions. There are limits to what can be done mobile. Perhaps only available option here will be more convenient wallet connect."
   },
   {
     "category": "infrastructure",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/1005.png",
     "id": "1005",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/1005.png",
     "title": "Desktop browser extension",
-    "body": "web3wallet in desktop browser extension. ",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "web3wallet in desktop browser extension. "
   },
   {
     "category": "feature",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/3001.png",
     "id": "3001",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/3001.png",
     "title": "Group wallets",
-    "body": "- Add ability to arbitrarily group wallets",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "- Add ability to arbitrarily group wallets"
   },
   {
     "category": "infrastructure",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/1001.png",
     "id": "1001",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/1001.png",
     "title": "ETH 2.0 support",
-    "body": "Add support for ETH 2.0 light client. (Geth & Prysm)",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Add support for ETH 2.0 light client. (Geth & Prysm)"
   },
   {
     "category": "feature",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/3005.png",
     "id": "3005",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/3005.png",
     "title": "Coin factory",
-    "body": "Allow users to deploy their own ERC20 in just a few taps",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Allow users to deploy their own ERC20 in just a few taps"
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2010.png",
     "id": "2010",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2010.png",
     "title": "LIDO staking",
-    "body": "Lido is the leading liquid staking solution - providing a simple and secure way to earn interest on your digital assets. By staking with Lido your assets remain liquid and can be used across a range of DeFi applications, earning extra yield.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Lido is the leading liquid staking solution - providing a simple and secure way to earn interest on your digital assets. By staking with Lido your assets remain liquid and can be used across a range of DeFi applications, earning extra yield."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2024.png",
     "id": "2024",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2024.png",
     "title": "Near",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2020.png",
     "id": "2020",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2020.png",
     "title": "Binance smart chain",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2014.png",
     "id": "2014",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2014.png",
     "title": "Binance bridge",
-    "body": "Binance Bridge 2.0 introduces a new way to bridge listed and selected unlisted tokens from Ethereum to BNB Smart Chain as BTokens. You can use your wrapped tokens with the BNB Chain ecosystem and explore DeFi, blockchain games, metaverse, and more.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Binance Bridge 2.0 introduces a new way to bridge listed and selected unlisted tokens from Ethereum to BNB Smart Chain as BTokens. You can use your wrapped tokens with the BNB Chain ecosystem and explore DeFi, blockchain games, metaverse, and more."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2004.png",
     "id": "2004",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2004.png",
     "title": "Aave yield farming",
-    "body": "Aave is a decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Aave is a decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2021.png",
     "id": "2021",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2021.png",
     "title": "Polkadot",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2015.png",
     "id": "2015",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2015.png",
     "title": "Synapse protocol bridge",
-    "body": "Synapse is an interoperability protocol designed for safely and securely sending arbitrary data between blockchains.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Synapse is an interoperability protocol designed for safely and securely sending arbitrary data between blockchains."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2005.png",
     "id": "2005",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2005.png",
     "title": "Compound yield farming",
-    "body": "Compound is a protocol on the Ethereum blockchain that establishes money markets, which are pools of assets with algorithmically derived interest rates, based on the supply and demand for the asset.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Compound is a protocol on the Ethereum blockchain that establishes money markets, which are pools of assets with algorithmically derived interest rates, based on the supply and demand for the asset."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2011.png",
     "id": "2011",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2011.png",
     "title": "Rocket pool staking",
-    "body": "Rocket Pool is a first of its kind ETH2 Proof of Stake Protocol, designed to be community owned, decentralised, trustless and compatible with staking in Ethereum 2.0. It was first conceived in late 2016 and has since had over 5 successful public betas over the life span of ETH2 development.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "Rocket Pool is a first of its kind ETH2 Proof of Stake Protocol, designed to be community owned, decentralised, trustless and compatible with staking in Ethereum 2.0. It was first conceived in late 2016 and has since had over 5 successful public betas over the life span of ETH2 development."
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2025.png",
     "id": "2025",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2025.png",
     "title": "Fantom",
-    "body": "",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": ""
   },
   {
     "category": "integrations",
-    "image": "https:\\/\\/raw.githubusercontent.com\\/sonsofcrypto\\/web3wallet-improvement-proposals\\/master\\/images\\/2001.png",
     "id": "2001",
+    "image_url": "https://raw.githubusercontent.com/sonsofcrypto/web3wallet-improvement-proposals/master/images/2001.png",
     "title": "Sushi swap integration",
-    "body": "SushiSwap is a software running on Ethereum that seeks to incentivize a network of users to operate a platform where users can buy and sell crypto assets.",
+    "creation_date": "2022-08-28T00:00:00.000Z",
     "votes": 0,
-    "creation_date": "2022-08-28T00:00:00.000Z"
+    "body": "SushiSwap is a software running on Ethereum that seeks to incentivize a network of users to operate a platform where users can buy and sell crypto assets."
   }
 ]
