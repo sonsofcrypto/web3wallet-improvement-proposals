@@ -334,20 +334,21 @@ header img {
     margin: 0 auto;
 }
 
-#meme_bull_pepe {
+#meme_bull_pepe, #meme_wsb, #meme_bull_pepe_sm, #meme_wsb_sm {
     position: absolute;
+    margin: 0 auto;
+    z-index: 2;
     bottom: 18%;
     left: 80%;
-    margin: 0 auto;
-    z-index: 2;
 }
 
-#meme_wsb {
-    position: absolute;
+#meme_wsb, #meme_wsb_sm {
     top: 15%;
     left: 7%;
-    margin: 0 auto;
-    z-index: 2;
+}
+
+#meme_bull_pepe_sm, #meme_wsb_sm {
+    visibility: hidden;
 }
 
 #sun {
@@ -375,8 +376,10 @@ header img {
 }
 
 @media only screen and (max-width: 600px) {
-    #meme_wsb { top: 3%; left: 1%; width: 20%; }
-    #meme_bull_pepe { top: 10%; left: 85%; width: 25%; }
+    #meme_bull_pepe_sm, #meme_wsb_sm { visibility: visible; }
+    #meme_bull_pepe, #meme_wsb { visibility: hidden; }
+    #meme_wsb_sm { top: 3%; left: 1%; }
+    #meme_bull_pepe_sm { top: 11%; left: 85%; }
 }
 
 .bottom {
