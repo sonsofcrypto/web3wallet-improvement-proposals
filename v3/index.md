@@ -1,9 +1,9 @@
 - WIP-1001 ETH 2.0 support
 - WIP-1002 Wallet connect support
 - WIP-1003 In app browser
-- WIP-1004 Mobile browser extension
+- WIP-1004 Android app
 - WIP-1005 Desktop browser extension
-- WIP-1006 Generic DAO functionality support
+- WIP-1006 Mobile browser extension
 - WIP-2001 Sushi swap integration
 - WIP-2002 1Inch integration
 - WIP-2003 ENS integration
@@ -37,3 +37,4 @@
 - WIP-3004 Dashboard improvements
 - WIP-3005 Coin factory
 - WIP-3006 Jpegs factory
+- WIP-3007 Generic DAO functionality support
