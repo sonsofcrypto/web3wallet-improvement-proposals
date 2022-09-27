@@ -330,11 +330,28 @@ header {
     overflow: hidden;
 }
 
-header img {
+header img, .proposal img {
     margin: 0 auto;
     padding: 0;
     max-width: 100%;
     z-index: 10;
+}
+
+.proposal .proposal-img-wrapper img {
+    border-radius: 1em;
+    width: 100%;
+}
+
+.proposal h1 {
+    font-family: "Roboto Mono";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 2em;
+    text-transform: none;
+}
+
+#proposal-nav a {
+    color: #FFFFFF;
 }
 
 .stars {

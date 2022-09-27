@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
+    <link rel="icon" href="../site_images/favicon/favicon.ico"/>
+    <link rel="apple-touch-icon" href="../site_images/favicon/android-chrome-192x192.png"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="theme-color" content="#000000"/>
+    <link href="../main.css" rel="stylesheet">
 
     <title>${TITLE}</title>
 
@@ -22,8 +26,39 @@
     <meta property="twitter:card" content="summary_large_image">
 </head>
 <body>
-    <img src="${IMAGE_URL}"/>
-    <h1>${TITLE}</h1>
-    ${CONTENT}
+<div id="content" class="proposal">
+    <div class="wrapper">
+        <div class="proposal-img-wrapper">
+            <img src="${IMAGE_URL}"/>
+        </div>
+        <p id="proposal-nav">
+            <a href="https://github.com/sonsofcrypto/web3wallet-improvement-proposals/blob/master/proposals/wip-${ID}.md" target="_blank">Comment</a> |
+            <a href="https://www.twitter.com/intent/tweet?text=${VOTE_TEXT}&url=${VOTE_URL}" target="_blank">Vote</a> |
+            <a href="https://sonsofcrypto.com/web3wallet-improvement-proposals/index.html" target="_blank">View all</a>
+        </p>
+        <h1><a href="https://github.com/sonsofcrypto/web3wallet-improvement-proposals/blob/master/proposals/wip-${ID}.md" target="_blank">WIP-${ID} ${TITLE}</a></h1>
+        <p>${CONTENT}</p>
+    </div>
+    <footer>
+        <div class="wrapper" id="footer-wrapper" >
+            <img
+                srcset="../site_images/logo_soc.png, ../site_images/logo_soc@2x.png 2x"
+                src="../site_images/logo_soc.png"
+                alt="logo_soc"
+                id="logo_soc"
+            />
+
+            <ul id="footer-links">
+                <li><a href="https://sonsofcrypto.com/web3wallet-improvement-proposals/index.html" target="_blank">All proposals</a></li>
+                <li><a href="https://github.com/sonsofcrypto/web3wallet-improvement-proposals/blob/master/proposals/wip-${ID}.md" target="_blank">Comment on proposal</a></li>
+                <li><a href="https://www.twitter.com/intent/tweet?text=${VOTE_TEXT}&url=${VOTE_URL}" target="_blank">Vote for proposal</a></li>
+                <li><a href="https://sonsofcrypto.com" target="_blank">Sonsofcrypto.com</a></li>
+                <li><a href="https://twitter.com/sonsofcryptolab" target="_blank">Twitter</a></li>
+                <li><a href="https://t.me/socweb3" target="_blank">Telegram</a></li>
+                <li><a href="https://discord.gg/DW8kUu6Q6E" target="_blank">Discord</a></li>
+            </ul>
+        </div>
+    </footer>
+</div>
 </body>
 </html>
