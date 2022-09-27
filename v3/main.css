@@ -278,6 +278,15 @@ body {
     min-height: 100%;
 }
 
+h1 {
+    font-family: 'Naoko AA';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 37px;
+    line-height: 44px;
+    text-transform: uppercase;
+}
+
 .wrapper {
     margin: 0 auto;
     padding: 3em;
@@ -463,14 +472,31 @@ header img {
     display: block;
     width: 90%;
     margin-top: 1.5em;
-    /*background-color: #171515;*/
 }
 
-.card ul {
+@media only screen and (max-width: 1200px) {
+    .list-container { width: 100% }
 }
 
-.card ul li {
-    /*padding-left: 1em;*/
+@media only screen and (max-width: 502px) {
+    h1 {
+        font-size: 27px;
+        line-height: 34px;
+    }
+}
+
+.card-image {
+    display: flex;
+    align-items: center;
+    /*background-color: #8F2A75;*/
+    margin: 0 auto;
+    margin-top: 48px;
+}
+
+.card-image .svg {
+    max-width: 160px;
+    margin: 0 auto;
+    /*background-color: #F0C21D;*/
 }
 
 a, a:hover {
@@ -480,6 +506,12 @@ a, a:hover {
 
 a:hover {
     text-decoration: underline;
+}
+
+section {
+    margin: 0 auto;
+    margin-top: 48px;
+    margin-bottom: 48px;
 }
 
 .videowrapper {
