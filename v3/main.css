@@ -298,6 +298,8 @@ body {
 #content {
     background: linear-gradient(180deg, #171515 0%, rgba(44, 82, 161, 0.51) 100%);
     width: 100%;
+    margin: 0 auto;
+    padding: 0;
 }
 
 header {
@@ -421,4 +423,82 @@ header img {
         font-size: 27px;
         line-height: 34px;
     }
+}
+
+.cards-container {
+    display: flex;
+    gap: 1.5em;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.card {
+    box-sizing: border-box;
+    background: linear-gradient(328deg, rgba(34, 62, 123, 0.8) 27.43%, rgba(52, 97, 190, 0.8) 100%);
+    border: 2px solid #FFFFFF;
+    backdrop-filter: blur(8px);
+    border-radius: 32px;
+    padding: 1em;
+    flex: 1;
+    max-width: 100%;
+}
+
+#cards-container-outer {
+    flex-direction: row;
+    flex: 1;
+}
+
+#cards-container-inner {
+    flex-direction: column;
+    flex: 1;
+}
+
+.card h1 {
+    text-align: center;
+}
+
+.list-container {
+    margin: 0 auto;
+    display: block;
+    width: 90%;
+    margin-top: 1.5em;
+    /*background-color: #171515;*/
+}
+
+.card ul {
+}
+
+.card ul li {
+    /*padding-left: 1em;*/
+}
+
+a, a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    background: #171515;
 }
