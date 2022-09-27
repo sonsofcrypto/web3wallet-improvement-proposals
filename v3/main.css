@@ -474,6 +474,7 @@ header img {
 
 .card-content-wrapper {
     display: table-cell;
+    padding: 0.25em;
 }
 
 .card-image {
@@ -486,7 +487,7 @@ header img {
 .card-image .svg {
     max-width: 160px;
     margin: 0 auto;
-    margin-top: 12px;
+    margin-top: 24px;
     margin-bottom: 24px;
 }
 
