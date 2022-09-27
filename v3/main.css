@@ -289,13 +289,13 @@ h1 {
 
 .wrapper {
     margin: 0 auto;
-    padding: 3em;
+    padding: 3em 4em 3em 4em;
     max-width: 1440px;
 }
 
 .wrapper-header {
     margin: 0 auto;
-    padding: 0em 3em 0em 3em;
+    padding: 0em 4em 0em 4em;
     max-width: 1440px;
 }
 
@@ -436,10 +436,14 @@ header img {
 
 .cards-container {
     display: flex;
-    gap: 1.5em;
+    gap: 3em;
     flex-wrap: wrap;
     margin: 0 auto;
     width: 100%;
+}
+
+@media only screen and (max-width: 1024px) {
+    .cards-container { gap: 1.5em; }
 }
 
 .card {
@@ -514,8 +518,8 @@ a:hover {
 
 section {
     margin: 0 auto;
-    margin-top: 48px;
-    margin-bottom: 48px;
+    margin-top: 4em;
+    margin-bottom: 4em;
 }
 
 .videowrapper {
@@ -526,6 +530,7 @@ section {
     padding-bottom: 56.25%;
     padding-top: 25px;
     height: 0;
+    margin-top: 4em;
 }
 .videowrapper iframe {
     position: absolute;
@@ -535,6 +540,27 @@ section {
     height: 100%;
 }
 
+@media only screen and (max-width: 1024px) {
+    section { margin-top: 1.5em; margin-bottom: 1.5em;}
+    .videowrapper { margin-top: 1.5em; }
+}
+
 footer {
     background: #171515;
+}
+
+#footer-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#footer-links, #logo_soc {
+    max-width: 100%;
+    margin: 1.5em;
+}
+
+@media only screen and (max-width: 630px) {
+    #footer-wrapper { flex-direction: column; }
 }
