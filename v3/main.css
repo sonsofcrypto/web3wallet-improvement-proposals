@@ -532,12 +532,16 @@ header img, .proposal img {
 
 a, a:hover {
     color: white;
-    text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
 }
+
+#footer-wrapper a, h1 a, #proposal-nav a {
+    text-decoration: none;
+}
+
 
 section {
     margin: 0 auto;
