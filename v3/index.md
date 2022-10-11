@@ -1,4 +1,4 @@
-- WIP-1001 ETH 2.0 support
+- WIP-1001 Post merge LES support
 - WIP-1002 Wallet connect support
 - WIP-1003 In app browser
 - WIP-1004 Android app
@@ -9,7 +9,7 @@
 - WIP-2003 ENS integration
 - WIP-2004 Aave yield farming
 - WIP-2005 Compound yield farming
-- WIP-2006 Uniswap yield farming
+- WIP-2006 Uniswap deep integration
 - WIP-2007 Curve yield farming
 - WIP-2008 Aave lending and borrowing
 - WIP-2009 Compound lending and borrowing

@@ -8,17 +8,17 @@
     <meta name="theme-color" content="#000000"/>
     <link href="../main.css" rel="stylesheet">
 
-    <title>Uniswap yield farming</title>
+    <title>Uniswap deep integration</title>
 
     <meta property="og:type" content="website"/>
     <meta property="og:site_name" content="sons of crypto"/>
     <meta name="description" content="web3Wallet improvement proposal 2006"/>
     <meta property="og:url" content="https://sonsofcrypto.com/web3wallet-improvement-proposals/v3/static/2006.html"/>
-    <meta property="og:title" content="Uniswap yield farming"/>
+    <meta property="og:title" content="Uniswap deep integration"/>
     <meta property="og:description" content="web3Wallet improvement proposal 2006"/>
     <meta property="og:image" content="https://sonsofcrypto.com/web3wallet-improvement-proposals/v3/images/2006.png"/>
 
-    <meta property="twitter:title" content="Uniswap yield farming">
+    <meta property="twitter:title" content="Uniswap deep integration">
     <meta property="twitter:description" content="web3Wallet improvement proposal 2006">
     <meta property="twitter:image" content="https://sonsofcrypto.com/web3wallet-improvement-proposals/v3/images/2006.png">
     <meta property="twitter:creator" content="@sonsofcryptolab">
@@ -33,11 +33,24 @@
         </div>
         <p id="proposal-nav">
             <a href="https://github.com/sonsofcrypto/web3wallet-improvement-proposals/blob/master/proposals/wip-2006.md" target="_blank">Comment</a> |
-            <a href="https://www.twitter.com/intent/tweet?text=I%20would%20love%20to%20see%20%40Uniswap%20in%20%23web3wallet%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%F0%9F%99%8F%0A%0A%23WIP_2006%20Uniswap%20yield%20farming%0A%0A%23byDegensForDegens%20%23wips%20%40sonsofcryptolab&url=https%3A//sonsofcrypto.com/web3wallet-improvement-proposals/v3/static/2006.html" target="_blank">Vote</a> |
+            <a href="https://www.twitter.com/intent/tweet?text=I%20would%20love%20to%20see%20%40Uniswap%20in%20%23web3wallet%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%F0%9F%99%8F%0A%0A%23WIP_2006%20Uniswap%20deep%20integration%0A%0A%23byDegensForDegens%20%23wips%20%40sonsofcryptolab&url=https%3A//sonsofcrypto.com/web3wallet-improvement-proposals/v3/static/2006.html" target="_blank">Vote</a> |
             <a href="https://sonsofcrypto.com/web3wallet-improvement-proposals/index.html" target="_blank">View all</a>
         </p>
-        <h1><a href="https://github.com/sonsofcrypto/web3wallet-improvement-proposals/blob/master/proposals/wip-2006.md" target="_blank">WIP-2006 Uniswap yield farming</a></h1>
-        <p>Uniswap v3 is a noncustodial automated market maker implemented for the Ethereum Virtual Machine. In comparison to earlier</p>
+        <h1><a href="https://github.com/sonsofcrypto/web3wallet-improvement-proposals/blob/master/proposals/wip-2006.md" target="_blank">WIP-2006 Uniswap deep integration</a></h1>
+        <p>Add native support for
+- Uniswap governance including forums
+  - As part of this implement generic support for [Open Zeppelin](https://docs.openzeppelin.com/contracts/4.x/governance)'s Governor, GovernorAlpha, GovernorBravo and GovernorCompound contracts. These contracts cover governance for majority of Defi products out there. Adding governance support for rest of the dapps should require vitually no new code.
+- Pools / Yield farming
+  - Ability to view, deploy and manage pools
+  - Ability to add / remove liquidity. View and collect rewards.
+- Add support v3 pools swaps
+  - Further refine AlphaRouter support
+- (Optional) Support for Uniswap charts. This might have to be dropped.
+
+This proposal could be summed up by saying. In apps native implementation for 
+every part of uniswap product via interacting with smart contracts directly. 
+Once we are done with this work we'll reach out to Uniswap devs, to see if they 
+would be interested in some sort of collaboration.</p>
     </div>
     <footer>
         <div class="wrapper" id="footer-wrapper" >
@@ -51,7 +64,7 @@
             <ul id="footer-links">
                 <li><a href="https://sonsofcrypto.com/web3wallet-improvement-proposals/index.html" target="_blank">All proposals</a></li>
                 <li><a href="https://github.com/sonsofcrypto/web3wallet-improvement-proposals/blob/master/proposals/wip-2006.md" target="_blank">Comment on proposal</a></li>
-                <li><a href="https://www.twitter.com/intent/tweet?text=I%20would%20love%20to%20see%20%40Uniswap%20in%20%23web3wallet%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%F0%9F%99%8F%0A%0A%23WIP_2006%20Uniswap%20yield%20farming%0A%0A%23byDegensForDegens%20%23wips%20%40sonsofcryptolab&url=https%3A//sonsofcrypto.com/web3wallet-improvement-proposals/v3/static/2006.html" target="_blank">Vote for proposal</a></li>
+                <li><a href="https://www.twitter.com/intent/tweet?text=I%20would%20love%20to%20see%20%40Uniswap%20in%20%23web3wallet%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%F0%9F%99%8F%0A%0A%23WIP_2006%20Uniswap%20deep%20integration%0A%0A%23byDegensForDegens%20%23wips%20%40sonsofcryptolab&url=https%3A//sonsofcrypto.com/web3wallet-improvement-proposals/v3/static/2006.html" target="_blank">Vote for proposal</a></li>
                 <li><a href="https://sonsofcrypto.com" target="_blank">Sonsofcrypto.com</a></li>
                 <li><a href="https://twitter.com/sonsofcryptolab" target="_blank">Twitter</a></li>
                 <li><a href="https://t.me/socweb3" target="_blank">Telegram</a></li>
