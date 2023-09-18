@@ -494,6 +494,10 @@ header img, .proposal img {
     text-align: center;
 }
 
+.card a {
+    text-decoration: none;
+}
+
 .card-content-wrapper {
     display: table-cell;
     padding: 0.25em;
@@ -540,6 +544,10 @@ a:hover {
 
 #footer-wrapper a, h1 a, #proposal-nav a {
     text-decoration: none;
+}
+
+#footer-wrapper a:hover, h1 a:hover, #proposal-nav a:hover {
+    text-decoration: underline;
 }
 
 
